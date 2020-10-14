@@ -1,3 +1,7 @@
+HEAD
 making changes to bobs file
 
 alice editing bobs file
+
+making changes to bobs file
+558c51e98b99118bdb1325102cef48c960b15efd
